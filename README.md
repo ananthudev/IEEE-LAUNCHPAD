@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions.
+>I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions. I completed a 6-month internship training at Ainsurtech Trivandrum, where I received extensive training in HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS) like PostgreSQL and MySQL, Python, and the Django framework.
 
 ## Portfolio Highlights
 
