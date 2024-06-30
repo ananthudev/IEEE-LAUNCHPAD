@@ -1,156 +1,73 @@
-# IEEE LAUNCHPAD Job Fair
+# Ananthu Dev
 
+### About Me
 
+> I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions.
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                                                           | Description                                                                                                                               | Hosted Link                                  | Repo Link                                                                              |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Liveliness Checks And Facial Recognition For Fraud Prevention With Virtual Kyc Onboarding** | Comprehensive virtual onboarding application developed during an internship at Ainsurtech Trivandrum, also serving as a master's project. |                                              | https://github.com/ananthudev/Liveliness-Check-Facial-Recognition-for-Fraud-Prevention |
+| **Event Scheduling System**                                        | Event Scheduling System (ESS) using Java Swing for GUI, MySQL for data storage, and JDBC for connectivity.                                 |                                              | https://github.com/ananthudev/Event-Scheduling-System                                   |
+| **Verismo Department Fest College Website**                      | Dynamic event website for the annual Techno-Cultural fest at Lourdes Matha College (LMCST).                                             | https://verismo2k23.github.io/                 | https://github.com/ananthudev/verismo2k23.github.io                                    |
+| **Equinox College Annual Fest 2023 Website Development**          | Dynamic event website (equinox2023.github.io) for the college annual fest, Equinox.                                                        | https://equinox2023.github.io/                 | https://github.com/ananthudev/equinox2023.github.io                                    |
+| **Eye Ball Cursor Movement Using OpenCV for Disabled Persons** | Intuitive "Eye Ball Cursor Control" system with a Pytinter-based GUI, utilizing a low-cost webcam for real-time eye tracking.           |                                              |                                                          |
+| **Employee Management System**                                    | Ainsurtech 6 months Internship - 2-day task. Created using the Django Framework 2.                                                                   |                                              | https://github.com/ananthudev/Employee-Management-System                               |
+| **Cat and Dog API**                                            | Cat and Dog API - Ainsurtech 6 months Internship - 1-day task. Created with HTML, CSS, and JavaScript.                                             | https://ananthudev.github.io/woofandmeow/      | https://github.com/ananthudev/woofandmeow
+| **QR Code Based Covid Check In**                                            | This project is a contactless check-in system designed to mitigate the spread of COVID-19. It replaces traditional registers with QR codes that users scan to log their entry and exit times, along with personal details. This approach eliminates the need for shared materials and physical contact, reducing the risk of infection.Created with HTML, CSS, and JavaScript.                                             |     | https://github.com/ananthudev/QR-Code-Based-Covid-Check-In
+| **Portfolio Website**                                            | Portfolio Website hosted on Github Pages                                             |https://ananthudev.github.io/     | https://github.com/ananthudev/ananthudev.github.io                                               |                                               |
+                                                                                              
 
+#### Leadership and Influence:
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+- Demonstrated leadership as Class Representative in both undergraduate and graduate studies, fostering a positive and collaborative learning environment.
+- Coordinated and led the Verismo Techno-Cultural Fest in 2022 and 2023, showcasing organizational and management skills.
+- Served as an Executive Committee Member and Media Head for the KTU MCA Students Community, managing communication platforms and providing - academic support to a large student body.
+- Actively volunteered with People for Animals, demonstrating initiative and compassion in animal welfare efforts.
 
+#### Networking:
 
+- Actively expanding my professional network by attending industry events and conferences like Launchpad.
+- ngaging with online communities and forums to connect with fellow developers and learn from their experiences.
+- Leveraging my experience as Media Head for the KTU MCA Students Community to foster connections and collaborations within the Kerala tech ecosystem.
 
+#### Career Plan:
 
+- Enhance my proficiency in Python, Java, Django, and other web development technologies.
+- Secure a position as a software developer in a reputable company, contributing to innovative projects.
+- Continuously learn and adapt to emerging technologies to remain at the forefront of the industry.
+- Explore opportunities to contribute to the Kerala Startup Ecosystem, potentially through freelance projects or collaborations.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- Kerala possesses immense potential to become a thriving tech hub. The state boasts a strong educational foundation, a growing pool of talented individuals, and a supportive government initiative. However, to truly excel, Kerala needs to focus on fostering a culture of innovation, encouraging entrepreneurship, and attracting more investment in the tech sector. By creating a conducive environment for startups and promoting collaboration between academia and industry, Kerala can unlock its full potential and establish itself as a leading player in the global tech landscape.
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### History of Open Source Contributions:
 
-#
+- Actively contributed to and updated the KTU MCA Students Community website, a valuable resource providing notes, question papers, and study materials for MCA students and LBS MCA entrance exam preparation.
 
+#### History of Community Engagement:
 
+- Mulearn, KTU MCA Students Community
 
+#### Highly Visible Technical Content:
 
-<div align="center">
+- [Github](https://github.com/ananthudev)
 
+#### Highly Used Software Tools:
 
+- VS Code: Primary code editor for development tasks.
+- Canva and Photoshop: Utilized for creating visually appealing posters, social media content, and promotional materials for the KTU MCA Students Community and Lourdes Matha College of Science and Technology.
 
+#### Competitive Website Profiles:
 
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
+- [μLearn](https://app.mulearn.org/profile/ananthudevdv@mulearn)
 
-> **Watch the onboarding video-👆**
+#### Where to find me:
 
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
+- [Github](https://github.com/ananthudev) - Want to what I am working on. 🚀
+- [Linkedin](https://www.linkedin.com/in/ananthudev/) - Want to contact and connect me? ☎
+- [My website](https://ananthudev.github.io) - Know Who I am 🔖
