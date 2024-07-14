@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions. I completed a 6-month internship training at Ainsurtech Trivandrum, where I received extensive training in HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS) like PostgreSQL and MySQL, Python, and the Django framework.
+> I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I recently completed a 6-month internship at Ainsurtech Trivandrum, where I received extensive training in HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS) like PostgreSQL and MySQL, Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions.
 
 ## Portfolio Highlights
 
@@ -21,10 +21,10 @@
 | **Portfolio Website**                                            | Personal portfolio website hosted on GitHub Pages.                                             | [Visit the website](https://ananthudev.github.io/)     | [View on GitHub](https://github.com/ananthudev/ananthudev.github.io) |
 
 #### Leadership and Influence:
-
+- Served as an Executive Committee Member and Media Head for the KTU MCA Students Community, managing communication platforms, providing academic support to a large student body, and conducting social media 
+  digital marketing campaigns for other educational companies by promoting their posts on platforms like Instagram, WhatsApp, and Telegram
 - Demonstrated leadership as Class Representative in both undergraduate and graduate studies, fostering a positive and collaborative learning environment.
 - Coordinated and led the Verismo Techno-Cultural Fest in 2022 and 2023, showcasing organizational and management skills.
-- Served as an Executive Committee Member and Media Head for the KTU MCA Students Community, managing communication platforms and providing academic support to a large student body.
 - Actively volunteered with People for Animals, demonstrating initiative and compassion in animal welfare efforts.
 
 #### Networking:
